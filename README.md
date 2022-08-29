@@ -9,3 +9,8 @@ As stated above, the main purpose is to provide simple examples for git training
 ## Deployment
 
 This is a Sample website project, deployment can be on any web servet or ecen local file system.
+
+
+###Copyright
+
+2022 Git.training
