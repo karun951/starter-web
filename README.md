@@ -10,6 +10,8 @@ As stated above, the main purpose is to provide simple examples for git training
 
 This is a Sample website project, deployment can be on any web servet or ecen local file system.
 
+##How To Contribute
+Please fork this repository and then issue pull requests for review.
 
 ###Copyright
 
