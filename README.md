@@ -1,6 +1,6 @@
 # Starter Web Repo
 This is a simple website project for  showing how to use git and github together
-Adding a line for rebasing example.
+Adding a line for rebasing example, then more changes from myfesture branch too.
 ## Intoductionn
 
 This is example is to show different parts of the git repository and various commands using aweb project
