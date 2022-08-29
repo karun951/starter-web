@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Karun Kumar    karun@git.training  @Karun951
 
 # THANKS
 
